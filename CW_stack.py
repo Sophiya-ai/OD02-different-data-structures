@@ -1,3 +1,4 @@
+# Стек (Stack) — это структура данных, работающая по принципу "последний пришел, первый ушел" (Last In, First Out, LIFO).
 class Stack:
     def __init__(self):
         self.items = []
